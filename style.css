@@ -1,0 +1,79 @@
+*{
+  margin: 0px;
+  padding:0px;
+}
+body{
+  
+ background-image: url(imgs/cos.jpg);
+       
+ 
+        
+       
+        background-repeat : no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+        
+
+  
+  
+  height: 100vh;
+}
+
+.gemse{
+  width: 255px;
+  
+  text-align: center;
+  color: white;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ margin: auto;
+ font-weight: 500;
+ margin-top: 50%;
+ transform: translateY(-50%)
+}
+.gee{
+  background: #000000;
+  padding:5px; 
+  margin-top: 20px;
+ 
+}
+
+span{
+  color:#F60000;
+  
+}
+
+.somn{
+ width: 80px;
+ color: #FF0000;
+ height:80px;
+background: #FFFFFF;
+float: left;
+margin: 2px;
+font-size: 70px;
+
+
+}
+
+.somn:hover{
+  background: #12FF00;
+  
+}
+#btn{
+  padding: 20px;
+ background: #071CFF; 
+ color: #FFFFFF;
+}
+
+
+#btn:hover{
+  background: #000000;
+  color: white;
+  transform: scale(1.5)
+  
+}
